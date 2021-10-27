@@ -1,0 +1,4 @@
+#Wed Oct 27 13:24:16 CDT 2021
+base.0=/Users/ferbajoo/Documents/Tutoriales/Designs/box_app_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
