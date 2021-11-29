@@ -10,4 +10,4 @@ https://dribbble.com/shots/15990476-Whatsapp-Redesign-Concept
 
 Current progress
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/trainingdesignflutter.appspot.com/o/whatsapp_redesign.png?alt=media&token=bde8fac7-405c-4fcd-9da1-282e8a696ede)
+![alt text](https://firebasestorage.googleapis.com/v0/b/trainingdesignflutter.appspot.com/o/whatsapp_redesign.png?alt=media&token=34606d59-7093-44ad-bd87-fd2cba641e63)
